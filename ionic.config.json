@@ -1,0 +1,7 @@
+{
+  "name": "KeyboardTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
